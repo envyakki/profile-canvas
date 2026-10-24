@@ -1,0 +1,1 @@
+# Profile Canvas dependencies\n# Standard library only (zero external bloat)\n
